@@ -143,6 +143,32 @@ Attrition by Years at Company
 Attrition by Gender
 Attrition by Marital Status
 
+## 🤖 Machine Learning Analysis
+
+Machine Learning was also applied to the employee attrition dataset to explore the prediction of employee attrition.
+
+### Model Used
+
+- **Logistic Regression**
+
+### Machine Learning Workflow
+
+```text
+Employee Attrition Dataset
+        ↓
+Data Exploration & Cleaning
+        ↓
+Categorical Encoding
+        ↓
+Train-Test Split
+        ↓
+Feature Scaling & Preprocessing
+        ↓
+Logistic Regression
+        ↓
+Predictions
+        ↓
+Model Evaluation
 
 
 
